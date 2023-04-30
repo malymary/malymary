@@ -32,8 +32,7 @@ I am highly adept at utilizing chatGPT to further my knowledge and skills, havin
 
 P.S. Guess who helped me write this text.
 
-![gpt_meme](https://github.com/malymary/malymary/blob/main/03-ChatGPT.png)
 <p align="center">
-  <img src="url_of_the_picture" alt=\"Alt text">
+  <img src="[url_of_the_picture](https://github.com/malymary/malymary/blob/main/03-ChatGPT.png)" alt=\"gpt_meme">
 </p>
 
