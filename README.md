@@ -1,6 +1,6 @@
 # Maria Malyutina
 
-Hi! I am a Software Engineer in the making, infatuated with NLP and languages in general. Currently I am pursuing a master's degree in Software Engineering at South China University of Technology; my bachelor's degree in Linguistics was attained at Peoples' Friendship University of Russia. Naturally, I am a big believer in technology and peoples' friendship, so **GitHub unescamus**!
+Hi! I am a Software Engineer in the making, infatuated with NLP and languages in general. Currently I am pursuing a master's degree in Software Engineering at South China University of Technology; my bachelor's degree in Linguistics was attained at Peoples' Friendship University of Russia. Naturally, I am a big believer in technology and peoples' friendship, so *GitHub unescamus*!
 
 ### Languages and Tools
 
