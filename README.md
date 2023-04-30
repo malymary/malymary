@@ -22,7 +22,7 @@ Hi! I am a Software Engineer in the making, infatuated with NLP and languages in
 
 ### Stats
 
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=malymary&show_icons=true&theme=synthwave)
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=malymary&show_icons=true&theme=react)
 
 
 
