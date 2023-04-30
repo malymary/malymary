@@ -33,6 +33,6 @@ I am highly adept at utilizing chatGPT to further my knowledge and skills, havin
 P.S. Guess who helped me write this text.
 
 <p align="left">
-  <img src="gpt_meme.png" width="300" height="200">
+  <img src="gpt_meme.png" width="400" height="400">
 </p>
 
