@@ -32,7 +32,7 @@ I am highly adept at utilizing chatGPT to further my knowledge and skills, havin
 
 P.S. Guess who helped me write this text.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/malymary/malymary/blob/main/03-ChatGPT.png">
 </p>
 
