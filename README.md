@@ -32,6 +32,6 @@ I am highly adept at utilizing chatGPT to further my knowledge and skills, havin
 
 P.S. Guess who helped me write this text.
 
-<p align="left" width="300px">
+<p align="left" width="30px">
   <img src="gpt_meme.png">
 </p>
