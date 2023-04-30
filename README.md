@@ -26,6 +26,11 @@ Hi! I am a Software Engineer in the making, infatuated with NLP and languages in
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=malymary&show_icons=true&theme=react)
 
+### ChatGPT
 
+I am highly adept at utilizing chatGPT to further my knowledge and skills, having invested ample time into understanding how this technology operates. While acknowledging that chatGPT may soon automate certain processes, I do not harbor any concerns that it will replace highly skilled professions such as software engineers. Instead, I firmly believe that it will only augment and enhance such roles, making them more efficient and value-adding.
 
+P.S. Guess who helped me write this text.
+
+<img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="C:\Users\1\Desktop\03-ChatGPT.png"/>
 
