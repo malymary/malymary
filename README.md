@@ -32,5 +32,4 @@ I am highly adept at utilizing chatGPT to further my knowledge and skills, havin
 
 P.S. Guess who helped me write this text.
 
-<img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="C:\Users\1\Desktop\03-ChatGPT.png"/>
-
+![gpt_meme](https://github.com/malymary/malymary/blob/main/03-ChatGPT.png)
