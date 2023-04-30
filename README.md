@@ -30,9 +30,7 @@ Hi! I am a Software Engineer in the making, infatuated with NLP and languages in
 
 ### ChatGPT
 
-I am highly adept at utilizing chatGPT to further my knowledge and skills, having invested ample time into understanding how this technology operates. While acknowledging that chatGPT may soon automate certain processes, I do not harbor any concerns that it will replace highly skilled professions such as software engineers. Instead, I firmly believe that it will only augment and enhance such roles, making them more efficient and value-adding.
-
-P.S. Guess who helped me write this text.
+I love ChatGPT with all my heart and use it extensively in my work and studies. Do I have any concerns about being "replaced" as a software engineer? Nope. Not my first time, you know.
 
 <p align="left">
   <img src="gpt_meme.png" width="470" height="510">
