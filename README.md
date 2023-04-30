@@ -20,7 +20,7 @@ Hi! I am a Software Engineer in the making, infatuated with NLP and languages in
 
 <img align="left" alt="ubuntu" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 
-<img align="left" alt="chatgpt" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:ChatGPT_logo.svg"/>
+<img align="left" alt="chatgpt" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
 
 <br />
 
