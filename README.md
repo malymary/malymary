@@ -29,10 +29,3 @@ Hi! I am a Software Engineer in the making, infatuated with NLP and languages in
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=malymary&show_icons=true&theme=react)
 
 ### ChatGPT
-
-I love ChatGPT with all my heart and use it extensively in my work and studies. As a software engineer, do I have any concerns about being "replaced"? Nope. Not my first time, you know.
-
-<p align="left">
-  <img src="gpt_meme.png" width="470" height="510">
-</p>
-
