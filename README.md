@@ -23,7 +23,3 @@ Hi! I am a Software Engineer in the making, infatuated with NLP and languages in
 <img align="left" alt="chatgpt" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
 
 <br />
-
-### Stats
-
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=malymary&show_icons=true&theme=react)
