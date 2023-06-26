@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Maria. I'm a Software Engineer in the making, infatuated with NLP and languages in general. I earned a bachelor's degree in Linguistics from Peoples' Friendship University of Russia and I'm currently pursuing a master's degree in Software Engineering at South China University of Technology. Naturally, I'm a big believer in technology and peoples' friendship, so *GitHub unescamus*!
+My name is Maria. I am a Software Engineer in the making, infatuated with NLP and languages in general. I earned a bachelor's degree in Linguistics from Peoples' Friendship University of Russia and I'm currently pursuing a master's degree in Software Engineering at South China University of Technology. Naturally, I'm a big believer in technology and peoples' friendship, so *GitHub unescamus*!
 
 ### Languages and Tools
 
