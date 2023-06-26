@@ -4,8 +4,9 @@ My name is Maria. I am a Software Engineer in the making, infatuated with NLP an
 
 ### Languages and Tools
 
-<a href="https://example.com">
-<img align="left" alt="pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+<a href="https://www.python.org/about/">
+<img align="left" alt="python" width="30px" style="padding-right:10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
   
 <img align="left" alt="pytorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
