@@ -1,6 +1,6 @@
-# Hi!
+# Welcome to my GitHub profile!
 
-My name is Maria. I am a Software Engineer in the making, infatuated with NLP and languages in general. I earned a bachelor's degree in Linguistics from Peoples' Friendship University of Russia and I'm currently pursuing a master's degree in Software Engineering at South China University of Technology. Naturally, I'm a big believer in technology and peoples' friendship, so *GitHub unescamus*!
+I'm an aspiring Machine Learning Engineer currently pursuing a Master's degree in Software Engineering. I also hold a Bachelor's degree in Linguistics. Interested in NLP, computer vision, and data analysis; still figuring out which one I like better.
 
 ### Languages and Tools
 
