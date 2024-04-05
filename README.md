@@ -25,6 +25,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 </a>
 
+<a href="https://numpy.org/" title="Seaborn">
+<img align="left" alt="numpy" width="30px" style="padding-right:10px;"
+src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+</a>
+
 <a href="https://code.visualstudio.com/" title="Visual Studio">
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
