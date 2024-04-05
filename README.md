@@ -2,6 +2,8 @@
 
 I'm an aspiring Machine Learning Engineer currently pursuing a Master's degree in Software Engineering. I also hold a Bachelor's degree in Linguistics. Interested in NLP, computer vision, and data analysis; still figuring out which one I like better.
 
+You can also find me on <a href="https://gitee.com/malymary" title="gitee">Gitee</a>.
+
 ### Languages and Tools
 
 <a href="https://www.python.org/" title="Python">
