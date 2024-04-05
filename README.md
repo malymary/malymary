@@ -32,11 +32,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <img align="left" alt="jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 </a>
 
-<a href="https://ubuntu.com/" title="Ubuntu">
-<img align="left" alt="ubuntu" width="30px" style="padding-right:10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
-</a>
-
 <a href="https://openai.com/blog/chatgpt" title="ChatGPT">
 <img align="left" alt="chatgpt" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
 </a>
