@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I'm an aspiring Machine Learning Engineer currently pursuing a Master's degree in Software Engineering. I also hold a Bachelor's degree in Linguistics. Interested in NLP, computer vision, and data analysis; still figuring out which one I like better.
+I'm an aspiring Data Scientist currently pursuing a Master's degree in Software Engineering. I also hold a Bachelor's degree in Linguistics. Interested in NLP, computer vision, data science and analysis; still figuring out which one I like better.
 
 You can also find me on <a href="https://gitee.com/malymary" title="gitee">Gitee</a>.
 
@@ -28,6 +28,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
 <a href="https://numpy.org/" title="Seaborn">
 <img align="left" alt="numpy" width="30px" style="padding-right:10px;"
 src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
+</a>
+
+<a href="https://www.r-project.org/about.html" title="R">
+<img align="left" alt="numpy" width="30px" style="padding-right:10px;"
+src="https://www.r-project.org/logo/Rlogo.svg"/>
 </a>
 
 <a href="https://code.visualstudio.com/" title="Visual Studio">
