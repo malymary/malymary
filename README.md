@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-I'm an aspiring Data Scientist currently pursuing a Master's degree in Software Engineering. I also hold a Bachelor's degree in Linguistics. Interested in NLP, computer vision, and data science; still figuring out which one I like better.
+I'm an aspiring Software Engineer with a background in Linguistics. Interested in NLP, data science, and analytics; still figuring out which one I like better.
 
 You can also find me on <a href="https://gitee.com/malymary" title="gitee">Gitee</a>.
 
